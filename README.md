@@ -11,4 +11,7 @@ Sample website with plenty of files for demos#Starter Web Project
     Beeepneeeephooop
  ## Deployment 
     Where the money bijesssssss
+
  ## How to Contribute
+ ## Copyright
+    This is the copyright notice belweb
