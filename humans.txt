@@ -3,8 +3,8 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
-
+    KohKoh	koh@gittraining.orf 	@awesomebij
+	woooooooot
 # THANKS
 
     <name>
