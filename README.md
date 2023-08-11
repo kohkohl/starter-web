@@ -13,5 +13,6 @@ Sample website with plenty of files for demos#Starter Web Project
     Where the money bijesssssss
 
  ## How to Contribute
+    Please fork this repo
  ## Copyright
     This is the copyright notice belweb
